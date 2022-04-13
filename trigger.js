@@ -6,8 +6,8 @@ const amountOfProducts = 3;
 
 var product = "";
 const chatbotBeginner = "-N-XS6sH9sBKutHyQE-1";
-const chatbotAdvanced = "TBD --> TestID";
-const chatbotExpert = "TBD --> TestID";
+const chatbotAdvanced = "-N-XS6sH9sBKutHyQE-1";
+const chatbotExpert = "-N-XS6sH9sBKutHyQE-1";
 
 function chatbotAppear() {
     //BOT ID is used to trigger different bots
