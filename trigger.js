@@ -5,7 +5,7 @@ const amountOfProducts = 3;
 //const botID for easy change
 
 var product = "";
-const chatbotBeginner = "TBD --> TestID";
+const chatbotBeginner = "-N-XS6sH9sBKutHyQE-1";
 const chatbotAdvanced = "TBD --> TestID";
 const chatbotExpert = "TBD --> TestID";
 
